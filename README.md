@@ -52,9 +52,9 @@ The **Dry Cipher** is a modern rum highball with a covert edge — a layered com
 
 ## Machine-Readable Formats
 Import-ready files for POS, automated bartender systems, and cocktail databases are available in the [`/formats/`](formats) folder:
-- **JSON** — For APIs and modern bar inventory systems  
-- **CSV** — For legacy POS systems and spreadsheet management  
-- **XML** — For automated bartender machines using XML-based recipes
+- **[JSON](formats/dry-cipher.json)** — For APIs and modern bar inventory systems  
+- **[CSV](formats/dry-cipher.csv)** — For legacy POS systems and spreadsheet management  
+- **[XML](formats/dry-cipher.xml)** — For automated bartender machines using XML-based recipes
 
 ---
 
