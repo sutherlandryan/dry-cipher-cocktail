@@ -1,0 +1,70 @@
+{
+  "name": "Dry Cipher",
+  "author": "Ryan Sutherland",
+  "created": "2025-08-09",
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "short": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "description": "A modern rum highball with a covert edge — a layered combination of good aged rum, dry vermouth, Coke Zero, and two-tier bitters. Balanced, aromatic, and dangerously smooth.",
+  "ingredients": [
+    {
+      "item": "Coke Zero",
+      "amount": 355,
+      "unit": "ml",
+      "notes": "1 full can"
+    },
+    {
+      "item": "Aged Rum",
+      "amount": "20–100",
+      "unit": "g",
+      "notes": "Adjust to taste"
+    },
+    {
+      "item": "Dry Vermouth",
+      "amount": 5,
+      "unit": "ml",
+      "notes": "Approx. ½ cap"
+    },
+    {
+      "item": "Orange Bitters",
+      "amount": 4,
+      "unit": "g",
+      "notes": "Approx. 4 dashes"
+    },
+    {
+      "item": "Aromatic Bitters",
+      "amount": 1,
+      "unit": "g",
+      "notes": "Approx. 1 dash"
+    },
+    {
+      "item": "Ice",
+      "amount": null,
+      "unit": null,
+      "notes": "As needed"
+    }
+  ],
+  "method": [
+    "Fill a tall glass with ice.",
+    "Add rum, vermouth, and both bitters.",
+    "Top with Coke Zero.",
+    "Stir gently.",
+    "Serve without garnish."
+  ],
+  "tags": [
+    "cocktails",
+    "recipe",
+    "rum",
+    "highball",
+    "coke-zero",
+    "vermouth",
+    "bitters",
+    "orange-bitters",
+    "aromatic-bitters",
+    "mixology",
+    "cc-by-nc-4-0"
+  ],
+  "origin_stamp": "Recipe documented and timestamped on GitHub by Ryan Sutherland, 2025-08-09."
+}
