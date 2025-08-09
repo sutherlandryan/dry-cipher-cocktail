@@ -13,6 +13,10 @@
 ---
 
 ## Overview
+<p align="center">
+  <img src="assets/dry-cipher.png" alt="Dry Cipher cocktail served in a tall glass" width="400">
+</p>
+
 The **Dry Cipher** is a modern rum highball with a covert edge — a layered combination of good aged rum, dry vermouth, Coke Zero, and two-tier bitters. Balanced, aromatic, and dangerously smooth, it’s designed for repeatable precision and an unmistakable profile.
 
 ---
